@@ -8,9 +8,13 @@ Initially created by [@mmarshall323](https://github.com/mmarshall323)
 
 ## Profissões
 
-* 📓 https://www.youtube.com/watch?v=ne6VNG6uEEs
+* https://www.youtube.com/watch?v=ne6VNG6uEEs
 
 
 ## Mapa
 
-* ⚡️ https://newworld-map.com/
+* https://newworld-map.com/
+
+## Mapa
+
+* https://youtu.be/ne6VNG6uEEs
