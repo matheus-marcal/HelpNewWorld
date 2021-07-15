@@ -3,7 +3,7 @@ Lista de Links para ajudar no new world
 
 --- 
 
-Initially created by [@markodenic](https://github.com/mmarshall323)
+Initially created by [@mmarshall323](https://github.com/mmarshall323)
 ---
 
 ## Profissões
