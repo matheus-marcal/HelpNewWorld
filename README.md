@@ -2,10 +2,7 @@
 
 Lista de Links para ajudar no new world
 
---- 
-Initially created by [@mmarshall323](https://github.com/mmarshall323)
----
-
+_____
 
 ## ⚔️ Armamentos
 * [Guia de Armas - Todas as habilidades & passivas](https://youtu.be/eoSbMx6vmew)
@@ -24,3 +21,8 @@ Initially created by [@mmarshall323](https://github.com/mmarshall323)
 ## ⚙️ Atualizações
 
 * [Site Oficial - News](https://www.newworld.com/en-us/news)
+
+
+_____
+
+#### Initially created by [@mmarshall323](https://github.com/mmarshall323)
